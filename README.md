@@ -19,6 +19,8 @@ detected → diffed → impacted → proposed → done
 
 ## Architecture
 
+<img width="668" height="1009" alt="SHCS_SystemDesign" src="https://github.com/user-attachments/assets/58000add-422b-4818-b0c9-d83d804b5e56" />
+
 ```
 seeds/sources/*.md
         │
