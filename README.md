@@ -1,5 +1,7 @@
 # Self-Healing Content System
 
+🔗 **Live Deployment:** [self-healing-content-system.vercel.app](https://self-healing-content-system.vercel.app/)
+
 A pipeline that watches source documents, detects meaningful changes, locates the learning content built on top of them, and either auto-publishes a patch or routes it to a reviewer based on a deterministic confidence score.
 
 Stack: Next.js 16 (App Router) · TypeScript · Tailwind v4 + shadcn/ui · Supabase Postgres · Gemini via Vercel AI SDK.
